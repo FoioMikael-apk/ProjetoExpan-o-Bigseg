@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Bigseg",
+    "slug": "Bigseg",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff" 
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff" 
+   
+      },
+      "package": "com.foiomikael.Bigseg"
+     
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+      "plugins": [
+        [
+          "expo-build-properties",
+          {
+            "android": {
+              "usesCleartextTraffic": true
+             
+            }
+          }
+        ]
+      ],
+    "extra": {
+      "eas": {
+        "projectId": "531a393a-8bb8-485b-8dc3-5f96eff19027"
+      }
+    }
+  }
+}
