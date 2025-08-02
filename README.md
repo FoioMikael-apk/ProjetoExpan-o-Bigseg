@@ -142,15 +142,3 @@ Desenvolvido por **Mikael Alejandro**
 <img src="https://github.com/user-attachments/assets/b29a5a20-576a-4c8e-aeea-d4d7dbc0ed7e" width="300" />
 
 
-![Screenshot_20250502_161648_Bigseg](https://github.com/user-attachments/assets/f9592d04-c9b7-44d1-b918-de4da4df8254)
-![Screenshot_20250502_161641_Bigseg](https://github.com/user-attachments/assets/667b553c-00e0-459a-9ae7-7b3ba9c242ce)
-![Screenshot_20250502_161628_Bigseg](https://github.com/user-attachments/assets/946c6fd6-5ca7-4d39-8a03-a179c32b39a2)
-![Screenshot_20250502_161621_Bigseg](https://github.com/user-attachments/assets/8052fb63-f874-41a2-bcf4-911b5bec1986)
-![Screenshot_20250502_161612_Bigseg](https://github.com/user-attachments/assets/eda87a32-f176-45d0-86c9-709333fe6206)
-![Screenshot_20250502_161559_Bigseg](https://github.com/user-attachments/assets/27664c01-6c0d-42b6-b977-419564418aea)
-![Screenshot_20250502_161550_Bigseg](https://github.com/user-attachments/assets/099729ef-3212-4c19-b13a-8e85b09abebf)
-![Screenshot_20250502_161541_Bigseg](https://github.com/user-attachments/assets/cbbc4381-4b2a-4cf1-8e25-9d85252e8040)
-![Screenshot_20250502_161535_Bigseg](https://github.com/user-attachments/assets/ed82a0bd-b723-46f3-82dd-287373e31f11)
-![Screenshot_20250502_161530_Bigseg](https://github.com/user-attachments/assets/13fcd4d1-27c5-49f2-bb6a-4808873d3f59)
-![Screenshot_20250502_161526_Bigseg](https://github.com/user-attachments/assets/1bf00aa5-8969-4efe-8fd9-483159088bf8)
-![Screenshot_20250502_161518_Bigseg](https://github.com/user-attachments/assets/b29a5a20-576a-4c8e-aeea-d4d7dbc0ed7e)
